@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PassingCrane
 - 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning about Android Security.
+- 🌱 I’m currently learning about Web Security.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me "Twitter"
 
